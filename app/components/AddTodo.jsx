@@ -19,7 +19,7 @@ var AddTodo = React.createClass({
                     <button className="button expanded">Add Todo</button>
                 </form>
             </div>
-        )
+        );
     }
 });
 
